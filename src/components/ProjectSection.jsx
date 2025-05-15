@@ -23,8 +23,7 @@ const projects = [
       "ServeEase is a trusted home maintenance platform that connects homeowners with verified service providers (plumbers, electricians, etc.) via a mobile and web app.",
     image: ServeEase,
     tags: ["React-Native", "React", "Stripe", "Firebase"],
-    demoUrl:
-      "https://www.youtube.com/watch?v=BmXc4zeF28I&ab_channel=ServeEaseLtd",
+    demoUrl: "https://play.google.com/apps/testing/com.serveeasefrontend",
     githubUrl: "https://github.com/Milan-p23/ServeEase.git",
   },
 ];
